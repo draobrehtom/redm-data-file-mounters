@@ -1,5 +1,6 @@
 Source: https://pastebin.com/raw/7bdH10s2
 
+```lua
 index: 0 ,RPF_FILE 
 index: 6  ,HANDLING_FILE 
 index: 8  ,CARCOLS_FILE 
@@ -116,3 +117,4 @@ index: 381 ,PROJ_DECAL_TXD_OVERRIDE_FILE
 index: 383 ,RESIDENT_TXD 
 index: 384 ,SWATCHES_TXD 
 index: 385 ,COMPENDIUM
+```
